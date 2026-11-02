@@ -1,0 +1,32 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Temporary files, locks, and local backups
+~$*
+*.tmp
+*.temp
+*.lock
+*.bak
+*.backup
+*.autosave
+*.pbix~
+*.xlsx~
+*.pdf~
+
+# Power BI local caches and settings
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
