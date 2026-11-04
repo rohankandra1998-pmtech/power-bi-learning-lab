@@ -11,6 +11,7 @@ The planned scope includes Power BI Data Modeling, Semantic Models and Relations
 | Post | Topic | Description | Project |
 |------|-------|-------------|---------|
 | 01 | Model View Custom Layouts | Compare Unstructured, Bus, and Double Decker arrangements of the same retail semantic model. | [Explore Post 01](posts/01-model-view-custom-layouts/README.md) |
+| 02 | Native Matrix Calendar | Explore synthetic supply chain exceptions with a native Matrix calendar, category spotlighting, and incident drill-through. | [Explore Post 02](posts/02-native-matrix-calendar/README.md) |
 
 ## Getting started
 
