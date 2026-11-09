@@ -13,6 +13,7 @@ The planned scope includes Power BI Data Modeling, Semantic Models and Relations
 | 01 | Model View Custom Layouts | Compare Unstructured, Bus, and Double Decker arrangements of the same retail semantic model. | [Explore Post 01](posts/01-model-view-custom-layouts/README.md) |
 | 02 | Native Matrix Calendar | Explore synthetic supply chain exceptions with a native Matrix calendar, category spotlighting, and incident drill-through. | [Explore Post 02](posts/02-native-matrix-calendar/README.md) |
 | 03 | Referential Integrity and (Blank) Values | Diagnose missing dimension keys with RELATED() and EXCEPT(), then correct the source data to resolve unexpected (Blank) categories. | [Explore Post 03](posts/03-healthcare-referential-integrity/README.md) |
+| 04 | Documenting a Semantic Model with INFO.VIEW | Combine table, column, measure, and relationship metadata into a searchable Power BI data dictionary. | [Explore Post 04](posts/04-semantic-model-documentation/README.md) |
 
 ## Getting started
 
